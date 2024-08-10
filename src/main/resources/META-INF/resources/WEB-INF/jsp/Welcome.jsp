@@ -3,10 +3,10 @@
     <title>Login</title>
 </head>
 <body>
-   <div>
-       <p>Welcome ${name}</p>
+   <div class="container">
+       <h1>Welcome ${name}</h1>
        <hr>
-       <a href="list-all-todos">Manage Todo</a>
+       <h2><a href="list-all-todos">Manage</a> your todos.</h2>
    </div>
 </body>
 </html>
